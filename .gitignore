@@ -326,3 +326,11 @@ target
 *.iml
 .idea
 rebel.xml
+
+#########################
+# Java eclipse generated files
+#########################
+.project
+.classpath
+.settings
+
