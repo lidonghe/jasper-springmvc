@@ -358,7 +358,7 @@
 		      <!-- http port -->
 		      <port>9090</port>
 		      <!-- application path always starts with /-->
-		      <path>/</path>
+		      <path>/jasper</path>
 		      <!-- optional path to a context file -->
 		   
 		      <!-- if you want to use test dependencies rather than only runtime -->
